@@ -16,7 +16,7 @@ android {
     compileSdkVersion rootProject.ext.CompileSdk
 
     defaultConfig {
-        applicationId 'com.candybar.sample'
+        applicationId 'com.candybar.sample'//程序包名
         minSdkVersion rootProject.ext.MinSdk
         targetSdkVersion rootProject.ext.TargetSdk
         versionCode 1

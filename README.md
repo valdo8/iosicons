@@ -1,8 +1,5 @@
-# CandyBar Sample
-[![JitPack Version](https://jitpack.io/v/zixpo/candybar.svg)](https://jitpack.io/#zixpo/candybar)
-[![Build Status](https://api.travis-ci.com/zixpo/candybar-sample.svg?branch=master)](https://travis-ci.com/zixpo/candybar-sample)
-
-Sample Implementation of CandyBar Dashboard.
+# 安卓图标包 苹果图标包
+CandyBar仪表盘
 
 Read the [Wiki](https://github.com/zixpo/candybar-sample/wiki) to get Started.
 

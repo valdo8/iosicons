@@ -1,4 +1,4 @@
-# 安卓图标包 苹果图标包
+# 安卓图标包 苹果主题图标包
 CandyBar仪表盘
 
 Read the [Wiki](https://github.com/zixpo/candybar-sample/wiki) to get Started.

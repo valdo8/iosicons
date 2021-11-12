@@ -2,7 +2,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
 
     <!-- YOUR ICON PACK NAME -->
-    <string name="app_name">CandyBar Sample</string>
+    <string name="app_name">IOS主题包</string>
 
     <string name="theme_title">Your Icon Pack Name</string>
     <string name="theme_name">Your Icon Pack Name</string>
@@ -12,8 +12,8 @@
     <string name="developerName">Developer</string>
     <string name="authorName">Developer</string>
 
-    <string name="authorLink">http://www.yourlink.com</string>
-    <string name="developer_link">http://www.yourlink.com/</string>
+    <string name="authorLink">http://www.cnqv.net</string>
+    <string name="developer_link">https://github.com/valdo8/iosicons</string>
 
     <string name="theme_description">Your Icon Pack Description</string>
     <string name="theme_info">Your Icon Pack Description</string>

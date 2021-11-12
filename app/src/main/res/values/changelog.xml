@@ -1,20 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- Leave empty if you don't want to show changelog date -->
-    <string name="changelog_date">August 04, 2019</string>
+    <!-- 如果你不想更改更新日志，请保留为空 -->
+    <!-- 更新日志 -->
+    <string name="changelog_date">更新日志</string>
 
-    <!-- Changelog support html formatting
-    * <b> for Bold
-    * <i> for Italic
-    * <u> for Underline
-    * <a href="linkUrl">Link Text</a> for links -->
+    <!-- 日志可以使用HTML格式
+    * <b> 粗体
+    * <i> 斜体
+    * <u> 下划线
+    * <a href="linkUrl">文本链接</a> for links -->
     <string-array name="changelog">
-        <item>First Changelog</item>
-        <item>Second Changelog</item>
+        <item>11.11.2021</item>
         <item>
             <![CDATA[
-            Formatted Changelog with <u>Underline</u>, <b>Bold</b>, <i>Italic</i> and <a href="https://your.link.here">Link</a>.
+            <b>IOS主题包</b>是基于<u>Candybar</u>修改而成适合国人使用的一款主题包。
+            ]]>
+        </item>
+        <item>
+            <![CDATA[
+            逐渐适配所有的APP图标中，如有建议或者意见请访问<a href="https://github.com/valdo8/iosicons">项目官网</a>
             ]]>
         </item>
     </string-array>

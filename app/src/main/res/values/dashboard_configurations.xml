@@ -44,7 +44,7 @@
         CONFIG: HOME
     -->
     <!-- Home title. This will be shown in the home page -->
-    <string name="home_title">CandyBar Sample</string>
+    <string name="home_title">IOS主题包</string>
 
     <!-- Home image
         If you want to use an image from url, just put the url here
@@ -74,22 +74,24 @@
         -->
     <string name="home_description">
         <![CDATA[
-            <b>You</b> <i>can</i> use <u>formatted text</u> here.
+            <b>扁平化设计</b> <i>追随潮流</i> 最适合<u>国人使用的图标包APP</u>.
             <br>
             <br>
-            <a href="https://example.com">Even Links.</u>
+            <a href="https://github.com/valdo8/iosicons">项目地址.</u>
         ]]>
     </string>
 
     <!-- Link to your app's Rate and Review page.
         Leave this empty to disable the "Rate and Review" button.
         You can use special keyword `{{packageName}}`, `{{packageName}}` will be replaced with your app's package name -->
-    <string name="rate_and_review_link">https://play.google.com/store/apps/details?id={{packageName}}</string>
+    <!-- <string name="rate_and_review_link">https://play.google.com/store/apps/details?id={{packageName}}</string> -->
+    <string name="rate_and_review_link">https://github.com/valdo8/iosicons</string>
 
     <!-- Link to your app's main page. It will be used when your user shares your app using "Share" button.
         Leave this empty to disable the "Share" button.
         You can use special keyword `{{packageName}}`, `{{packageName}}` will be replaced with your app's package name -->
-    <string name="share_link">https://play.google.com/store/apps/details?id={{packageName}}</string>
+    <!-- <string name="share_link">https://play.google.com/store/apps/details?id={{packageName}}</string>  -->
+    <string name="share_link">https://github.com/valdo8/iosicons</string>
 
     <!-- Enable "Check for update" button.
         It needs the option "config_json" to be configured in order to work -->
@@ -98,7 +100,8 @@
     <!-- More apps at Google Play Store
         Link to Google Play Store developer page.
         If you don't want to show this, just leave this empty -->
-    <string name="google_play_dev">https://play.google.com/store/apps/dev?id=your_developer_id</string>
+    <!--<string name="google_play_dev">https://play.google.com/store/apps/dev?id=your_developer_id</string>  -->
+    <string name="google_play_dev">https://github.com/valdo8</string>
 
     <!-- Enables the new flat and outline styled cards everywhere -->
     <bool name="use_flat_card">true</bool>
